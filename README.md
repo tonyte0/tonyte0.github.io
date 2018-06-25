@@ -20,7 +20,7 @@ section {
 section.sec1 {	
 	position: relative;
 	overflow: hidden;
-	background: url(img11.jpg);
+	background: url(https://pixabay.com/en/girl-lying-sea-beach-person-2669890/);
 	background-attachment: fixed;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -195,10 +195,10 @@ section.sec1 {
 	<section class="sec1"></section>
 	<div class="content">
 		<div class="ass">
-			<img src="woman-759688_960_720.jpg">
+			<img src="https://pixabay.com/en/girl-portrait-model-feelings-passion-ero-2071564/">
 			<div class="text">
 				<div class="admin">
-					<img src="gai3.png">
+					<img src="https://www.google.com/imgres?imgurl=http%3A%2F%2Fnudebabes.realnakedgirls.net%2Fwp-content%2Fuploads%2F2018%2F04%2Frealnakedgirls-15241050684cp8l-250x444.jpg&imgrefurl=http%3A%2F%2Frealnakedgirls.net%2Fcategory%2Fnaked-snapchat-girls%2F&docid=N63qT0AYZY_5dM&tbnid=H_CyyiehkSQavM%3A&vet=10ahUKEwiG4vOihO_bAhWMFIgKHaV2COoQMwgyKA0wDQ..i&w=250&h=444&hl=vi-VN&bih=947&biw=1920&q=girl%20nude&ved=0ahUKEwiG4vOihO_bAhWMFIgKHaV2COoQMwgyKA0wDQ&iact=mrc&uact=8">
 					<p>Admin 2018/06/24</p>	
 				</div>
 				<a href="#"><h1> What is Ass</h1></a>
@@ -208,10 +208,10 @@ section.sec1 {
 	</div>
 	<div class="content2">
 		<div class="ass2">
-			<img src="woman-759688_960_720.jpg">
+			<img src="https://pixabay.com/en/wet-girl-in-the-studio-sexy-erotic-nude--1390623/">
 			<div class="text2">
 				<div class="admin">
-					<img src="gai3.png">
+					<img src="https://www.google.com/imgres?imgurl=http%3A%2F%2Fnudebabes.realnakedgirls.net%2Fwp-content%2Fuploads%2F2018%2F04%2Frealnakedgirls-15241050684cp8l-250x444.jpg&imgrefurl=http%3A%2F%2Frealnakedgirls.net%2Fcategory%2Fnaked-snapchat-girls%2F&docid=N63qT0AYZY_5dM&tbnid=H_CyyiehkSQavM%3A&vet=10ahUKEwiG4vOihO_bAhWMFIgKHaV2COoQMwgyKA0wDQ..i&w=250&h=444&hl=vi-VN&bih=947&biw=1920&q=girl%20nude&ved=0ahUKEwiG4vOihO_bAhWMFIgKHaV2COoQMwgyKA0wDQ&iact=mrc&uact=8">
 					<p>Admin 2018/06/24</p>	
 				</div>
 				<a href="#"><h1> What is Ass</h1></a>
@@ -220,7 +220,7 @@ section.sec1 {
 		</div>
 	</div>
 	<div id="footer">
-		<img src="programmer.png">
+		<img src="https://www.google.com/imgres?imgurl=http%3A%2F%2Fimg1.vipnudesexygirls.com%2Fnude%2F28%2F377_Zialiuss_Zialiuss.jpg&imgrefurl=http%3A%2F%2Fwww.vipnudesexygirls.com%2F&docid=8_tIkZp9n4m_nM&tbnid=5scZX9aMMA0YGM%3A&vet=10ahUKEwiG4vOihO_bAhWMFIgKHaV2COoQMwgwKAswCw..i&w=300&h=400&hl=vi-VN&bih=947&biw=1920&q=girl%20nude&ved=0ahUKEwiG4vOihO_bAhWMFIgKHaV2COoQMwgwKAswCw&iact=mrc&uact=8">
 		<p>Copyringht &copy; 2018 www.tonyteo.com</p>
 	</div>
 </body>
